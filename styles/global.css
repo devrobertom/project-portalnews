@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-brand-l: #60A5FA;
+    --color-brand-d: #1D4ED8;
+
+    --bg-color: #0F172A;
+    --stroke-color: #1E293B;
+
+    --text-color1: #F1F5F9;
+    --text-color2: #CBD5E1;
+}
+
+body{
+    color: var(--text-color1);
+    background-color: var(--bg-color);
+}
